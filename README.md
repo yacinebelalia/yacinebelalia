@@ -6,4 +6,4 @@ Feel free to take a look at my [degrees](https://github.com/yoctoscript/yoctoscr
 
   
 
-I have my socials listed on GitHub. If you’re actively recruiting or just a fellow .NET developer, feel free to contact me through e-mail (yoctoscript@gmail.com) or LinkedIn.
+I have my socials listed on GitHub. If you’re actively recruiting or just a fellow .NET developer, feel free to contact me through e-mail (yacine.belalia.contact@gmail.com) or LinkedIn.
