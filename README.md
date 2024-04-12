@@ -17,14 +17,15 @@
   </a>
 <div>
 
-<br/>
 <h1>Profiles:</h1>
 
 
 <div align="left">
   <a href="mailto:yacine.belalia.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/gmail.png" width="32" height="32" alt="gmail lolo"/>
-  </a><a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank">
+  </a>
+  <img width="10"/>
+  <a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/linkedin.png" width="32" height="32" alt="linkedin logo"/>
   </a>
   
