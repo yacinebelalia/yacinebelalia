@@ -7,7 +7,6 @@
 <br>
 <p><i>I also possess fluency in the archaic languages of ancient civilizations, relics imbued with the echoes of antiquity.</i></p>
 <img src="https://skillicons.dev/icons?i=c,cpp" height="32" alt="github logo"/>
-<br/>
 
 <br/>
 <h1>Badges:</h1>
@@ -24,11 +23,11 @@
 
 <div align="left">
   <a href="mailto:yacine.belalia.contact@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/gmail.png" width="32" height="32" alt="gmail lolo"  />
+    <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/gmail.png" width="32" height="32" alt="gmail lolo"/>
+  </a><a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank">
+    <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/linkedin.png" width="32" height="32" alt="linkedin logo"/>
   </a>
-  <a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank">
-    <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/linkedin.png" width="32" height="32" alt="linkedin logo"  />
-  </a>
+  
   <a href="https://www.codewars.com/users/yoctoscript" target="_blank">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/codewars.png" width="32" height="32" alt="codewars logo"  />
   </a>
@@ -48,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/fiverr.png" width="32" height="32" alt="fiverr logo"  />
   </a>
   <a href="discordapp.com/users/1007752311449333811" target="_blank">
-    <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/discord.png" width="32" height="32" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/discord.png" width="32" height="32" alt="discord logo" />
   </a>
 </div>
 
