@@ -20,14 +20,13 @@
 
 
 <div align="left">
-  <a href="mailto:yacine.belalia.contact@gmail.com" target="_blank">
+  <a href="mailto:yacine.belalia.contact@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/gmail.png" width="32" height="32" alt="gmail lolo"/>
   </a>
-  <a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank">
+  <a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/linkedin.png" width="32" height="32" alt="linkedin logo"/>
   </a>
-  
-  <a href="https://www.codewars.com/users/yoctoscript" target="_blank">
+  <a href="https://www.codewars.com/users/yoctoscript" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/codewars.png" width="32" height="32" alt="codewars logo"  />
   </a>
   <a href="https://leetcode.com/yoctoscript/" target="_blank">
