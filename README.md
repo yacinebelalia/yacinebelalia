@@ -8,7 +8,6 @@
 <p><i>I also possess fluency in the archaic languages of ancient civilizations, relics imbued with the echoes of antiquity.</i></p>
 <img src="https://skillicons.dev/icons?i=c,cpp" height="32" alt="github logo"/>
 
-<br/>
 <h1>Badges:</h1>
 
 <div align="left">
@@ -24,7 +23,6 @@
   <a href="mailto:yacine.belalia.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/gmail.png" width="32" height="32" alt="gmail lolo"/>
   </a>
-  <img width="10"/>
   <a href="https://www.linkedin.com/in/yacine-belalia/" target="_blank">
     <img src="https://raw.githubusercontent.com/yoctoscript/yoctoscript/main/Icons/linkedin.png" width="32" height="32" alt="linkedin logo"/>
   </a>
