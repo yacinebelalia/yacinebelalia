@@ -1,4 +1,4 @@
-<p align="left">Hi, my name's Yacine Belalia (aka Yoctoscript). I'm a .NET Software Engineer and Solution Architect with 2 years of experience.<br><br>My work-related repositories are all private; however, you can have a look at my public repositories which are a mix of all the things I love doing, sharpening my .NET skills, creating games in Unity, and experimenting with the Discord API.</p>
+<p align="left">Hi, my name's Yacine Belalia (aka Yoctoscript). I'm a .NET Developer and Solution Architect with 2 years of experience.<br><br>My work-related repositories are all private; however, you can have a look at my public repositories which are a mix of all the things I love doing, sharpening my .NET skills, creating games in Unity, and experimenting with the Discord API.</p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,unity,windows,github" height="48" alt="github logo"/>
