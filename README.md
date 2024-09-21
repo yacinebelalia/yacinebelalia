@@ -1,4 +1,4 @@
-<p align="left">Passionate individual who finds joy in crafting solutions using the .NET ecosystem.</p>
+<p align="left">Passionate individual who finds contentment in crafting solutions using the .NET ecosystem.</p>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,windows,github" height="48" alt="github logo"/>
