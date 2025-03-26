@@ -19,7 +19,7 @@ public sealed class DotnetEngineer : IMidLevel
 
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,azure,powershell,windows,docker,aws,github,githubactions,rider,md" height="48" alt="github logo"/>
+  <img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/skillicons.svg" height="48" alt="github logo"/>
 </div>
 
 <br>
@@ -27,11 +27,11 @@ public sealed class DotnetEngineer : IMidLevel
 # Certifications
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Badges/microsoft-certified-expert-badge.svg" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Badges/microsoft-certified-associate-badge.svg" width="128" height="128"/>
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="128" height="128"/>
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-specialty-badge.svg" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/main/Certifications/C_Certified_Associate_Programmer_Badge.png" width="128" height="128"/><div>
+<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-expert-badge.svg" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-associate-badge.svg" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-fundamentals-badge.svg" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-specialty-badge.svg" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Images/c-certified-associate-programmer-badge.png" width="128" height="128"/><div>
 <div align="left"><div> 
 <br>
 
@@ -49,7 +49,7 @@ public sealed class DotnetEngineer : IMidLevel
 # Achievements
 | Company | Contribution |
 |-|-|
-|<img src="https://deo-dz.com/images/resources/logo-1.png" width="200" height="100"/>| Complete rengineering and rewrite of SCADA software suite   using .NET 8 <br> [More details]()
+|<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Images/deo-electronique-logo.png" width="200" height="100"/>| Complete rengineering and rewrite of SCADA software suite   using .NET 8 <br> [More details]()
 
 <br>
 
