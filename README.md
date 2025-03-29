@@ -12,8 +12,9 @@ public sealed class DotnetEngineer : IMidLevel
     public double HoursSpentReadingDocs => double.PositiveInfinity;
     public string[] SpokenLanguages {get;} = ["English", "French", "Arabic"];
     public DateTime LastCoffeeConsumed {get; set;} = DateTime.Now;
+    public string[] Hobbies {get;} = ["Riding Motorcycles", "Gym", "Rewatching Supernatural"]
    
-    // Open to international opportunities with immediate relocation availability (Visa sponsorship required ✈️)
+    // Open to international opportunities with immediate relocation availability (Visa sponsorship required)
 }
 ```
 
@@ -35,18 +36,18 @@ public sealed class DotnetEngineer : IMidLevel
 <div align="left"><div> 
 <br>
 
-- Azure Solutions Architect Expert (???) - by Microsoft
-- Azure Adminitrator Associate (???) - by Microsoft
-- Azure Cosmos DB Developer Specialty (???) - by Microsoft
-- Azure Fundamentals (???) - by Microsoft
-- Relational Database (October 26th, 2024) - by freeCodeCamp
-- Foundational C# with Microsoft (September 26th, 2023) - by freeCodeCamp & Microsoft
-- CLA - C Certified Associate Programmer (September 6th, 2022) - by C++ Institute
+- Azure Solutions Architect Expert (???) - by Microsoft [Inspect Certificate]()
+- Azure Adminitrator Associate (???) - by Microsoft [Inspect Certificate]()
+- Azure Cosmos DB Developer Specialty (???) - by Microsoft [Inspect Certificate]()
+- Azure Fundamentals (???) - by Microsoft [Inspect Certificate]()
+- Relational Database (October 26th, 2024) - by freeCodeCamp [Inspect Certificate]()
+- Foundational C# with Microsoft (September 26th, 2023) - by freeCodeCamp & Microsoft [Inspect Certificate]()
+- CLA - C Certified Associate Programmer (September 6th, 2022) - by C++ Institute [Inspect Certificate]()
 
 
 <br>
 
-# Achievements
+# Accomplishments
 | Company | Contribution |
 |-|-|
 |<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Images/deo-electronique-logo.png" width="200" height="100"/>| Complete rengineering and rewrite of SCADA software suite   using .NET 8 <br> [More details]()
