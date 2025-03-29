@@ -1,3 +1,11 @@
+Greetings, welcome to my GitHub profile. 👋🏻\
+\
+🔎 **Actively seeking** a **#Mid-Level** **#OnSite** role in the **European Union** (EU). \
+✈️ Based in **Algeria** (North Africa) | **Available for immediate relocation** (requires visa sponsorship). \
+🖥️ Open to roles in: **.NET Developement** | **Cloud Solutions** \
+📧 **Contact me** via **LinkedIn** or **E-mail**. \
+📑 [**Download Curriculum Vitae (CV)**]()
+
 ```cs
 public sealed class DotnetEngineer : IMidLevel
 {
@@ -7,14 +15,13 @@ public sealed class DotnetEngineer : IMidLevel
     public string EducationLevel {get;} = "Master's in Electronics of Embedded Systems"; 
     public CivilStatus CivilStatus = CivilStatus.Single;
     public string Location {get; set;} = "Algeria 🇩🇿";
-    public string Description {get;} = "Proficient individual who finds contentment in crafting solutions using the .NET ecosystem";
+    public string Description {get;} = "Proficient individual who finds contentment " +
+      "in crafting solutions using the .NET and cloud ecosystems.";
     public double HoursSpentInVisualStudio => double.PositiveInfinity;
     public double HoursSpentReadingDocs => double.PositiveInfinity;
     public string[] SpokenLanguages {get;} = ["English", "French", "Arabic"];
     public DateTime LastCoffeeConsumed {get; set;} = DateTime.Now;
     public string[] Hobbies {get;} = ["Riding Motorcycles", "Gym", "Rewatching Supernatural"]
-   
-    // Open to international opportunities with immediate relocation availability (Visa sponsorship required)
 }
 ```
 
@@ -22,8 +29,6 @@ public sealed class DotnetEngineer : IMidLevel
 <div align="center">
   <img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/skillicons.svg" height="48" alt="github logo"/>
 </div>
-
-<br>
 
 # Certifications
 
@@ -37,22 +42,25 @@ public sealed class DotnetEngineer : IMidLevel
 <br>
 
 - Azure Solutions Architect Expert (???) - by Microsoft [Inspect Certificate]()
-- Azure Adminitrator Associate (???) - by Microsoft [Inspect Certificate]()
+- Azure Developer Associate (???) - by Microsoft [Inspect Certificate]()
+- Azure Administrator  Associate (???) - by Microsoft [Inspect Certificate]()
 - Azure Cosmos DB Developer Specialty (???) - by Microsoft [Inspect Certificate]()
 - Azure Fundamentals (???) - by Microsoft [Inspect Certificate]()
 - Relational Database (October 26th, 2024) - by freeCodeCamp [Inspect Certificate]()
 - Foundational C# with Microsoft (September 26th, 2023) - by freeCodeCamp & Microsoft [Inspect Certificate]()
 - CLA - C Certified Associate Programmer (September 6th, 2022) - by C++ Institute [Inspect Certificate]()
 
+# English Proficiency
+IELTS - [Inspect Test Report Form]()
+| Writing | Speaking | Reading | Listening | Overall Band Score | CERF Level |
+|-|-|-|-|-|-|
+| ? | ? | ? | ? | ? | ? |
 
-<br>
 
 # Accomplishments
 | Company | Contribution |
 |-|-|
 |<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Images/deo-electronique-logo.png" width="200" height="100"/>| Complete rengineering and rewrite of SCADA software suite   using .NET 8 <br> [More details]()
-
-<br>
 
 # .NET Knowledge
 ## 1. C# 
