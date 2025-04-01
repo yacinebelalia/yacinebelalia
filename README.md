@@ -2,12 +2,12 @@ Greetings, welcome to my GitHub profile. 👋🏻\
 \
 🔎 **Actively seeking** a **#Mid-Level** **#OnSite** role in the **European Union** (EU). \
 ✈️ Based in **Algeria** (North Africa) | **Available for immediate relocation** (requires visa sponsorship). \
-🖥️ Open to roles in: **.NET Software Developement** | **Azure Cloud Solutions** \
+🖥️ Open to roles in: **.NET Software Developement** | **Azure DevOps Solutions** \
 📧 **Contact me** via **LinkedIn** or **E-mail**. \
 📑 [**Download Curriculum Vitae (CV)**]()
 
 ```cs
-public sealed class DotnetEngineer : IMidLevel
+public sealed class DotnetEngineer : IMidLevel, IDevOps
 {
     public string FullName {get;} = "Yacine Belalia";
     public byte Age {get; init;} = 24;
