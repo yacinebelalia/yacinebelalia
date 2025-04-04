@@ -4,10 +4,10 @@ Greetings, welcome to my GitHub profile. 👋🏻\
 ✈️ Based in **Algeria** (North Africa) | **Available for immediate relocation** (requires visa sponsorship). \
 🖥️ Open to roles in: **.NET Software Developement** | **Azure Cloud Solutions** \
 📧 **Contact me** via **LinkedIn** or **E-mail**. \
-📑 [**Download Curriculum Vitae (CV)**]()
+📑 [**Download Resume**]()
 
 ```cs
-public sealed class DotnetEngineer : IMidLevel
+public sealed class DotnetEngineer : IMidLevel, IAzureDeveloper
 {
     public string FullName {get;} = "Yacine Belalia";
     public byte Age {get; init;} = 24;
@@ -33,19 +33,16 @@ public sealed class DotnetEngineer : IMidLevel
 # Certifications
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-expert-badge.svg" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-specialty-badge.svg" width="128" height="128"/>
 <img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-associate-badge.svg" width="128" height="128"/>
 <img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-fundamentals-badge.svg" width="128" height="128"/>
-<img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/256e37c11575d81b53bf60702b0c0fa76db7cc6a/Images/microsoft-certified-specialty-badge.svg" width="128" height="128"/>
 <img src="https://raw.githubusercontent.com/yacinebelalia/yacinebelalia/refs/heads/main/Images/c-certified-associate-programmer-badge.png" width="128" height="128"/><div>
 <div align="left"><div> 
 <br>
 
-- Azure Solutions Architect Expert (???) - by Microsoft [Inspect Certificate]()
-- Azure Developer Associate (???) - by Microsoft [Inspect Certificate]()
-- Azure Administrator  Associate (???) - by Microsoft [Inspect Certificate]()
 - Azure Cosmos DB Developer Specialty (???) - by Microsoft [Inspect Certificate]()
-- Azure Fundamentals (???) - by Microsoft [Inspect Certificate]()
+- Azure Developer Associate (???) - by Microsoft [Inspect Certificate]()
+- Azure Fundamentals (April 7th, 2025) - by Microsoft [Inspect Certificate]()
 - Relational Database (October 26th, 2024) - by freeCodeCamp [Inspect Certificate]()
 - Foundational C# with Microsoft (September 26th, 2023) - by freeCodeCamp & Microsoft [Inspect Certificate]()
 - CLA - C Certified Associate Programmer (September 6th, 2022) - by C++ Institute [Inspect Certificate]()
@@ -64,14 +61,14 @@ IELTS - [Inspect Test Report Form]()
 
 # .NET Knowledge
 ## 1. C# 
-Progress: 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ [Proof of experience]()
+Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ [Proof of experience]()
 
 | Basics of C# 13 | .NET 9 | .NET Framework 4.8 | dotnet CLI | NuGet
 |-|-|-|-|-|
 | ✅ <br> Classes, Operators, Collections, Access modifiers, Assemblies, Boxing/Unboxing, `virtual` keyword, Parameter Types, `async`/`await`, Generics, Interfaces, `using` keyword, <br> ❌ <br> Delegates/Events, Casting, Arrays, `out` keyword, Strings, Reference & Value types, Statements & Expressions | ✅ <br> File I/O, Networking, Security, Collections, <br> ❌ <br> Multithreading, Cryptography, Exceptions, Channels | ⬅️ | ✅ | ✅
 
 ## 2. General development skills
-Progress: 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ [Proof of experience]()
+Progress: ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ [Proof of experience]()
 
 | Git | Data Structures & Algorithms | Clean Code & Refactoring | SOLID, YAGNI, DRY, KISS Principles | Design Patterns | Software Architecture | Architecture Patterns |
 |-|-|-|-|-|-|-|
