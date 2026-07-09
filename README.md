@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 I am an entrepreneur and the **Founder & CEO of SCADAlgeria**. My mission is to democratize industrial automation by building next-generation, accessible, and highly scalable infrastructure. I am passionate about the intersection of Operational Technology (OT) and Information Technology (IT), edge computing, and building sovereign cloud solutions that empower local and global industries.
 
-## 🏭 What is SCADAlgeria? (For the GitHub Community)
+## 🏭 What is SCADAlgeria?
 **[SCADAlgeria](https://www.scadalgeria.com)** is a **cloud-native Supervisory Control and Data Acquisition (SCADA) and IoT platform** delivered as a Software-as-a-Service (SaaS). 
 
 We are building the digital nervous system for physical operations. Whether you are an engineering student wiring up an ESP32 microcontroller or an industrial enterprise managing a 50,000-tag production line, SCADAlgeria provides the infrastructure to monitor, control, and analyze physical assets in real-time.
