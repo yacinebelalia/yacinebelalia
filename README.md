@@ -41,6 +41,8 @@ Join our growing community of engineers, makers, and industrial innovators. Foll
 *   ✍️ **Medium:** [medium.com/@scadalgeria](https://medium.com/@scadalgeria)
 *   📌 **Pinterest:** [pinterest.com/scadalgeria](https://pinterest.com/scadalgeria/)
 
+Reach out: contact@scadalgeria.com
+
 <br>
 
 <div align="center">
