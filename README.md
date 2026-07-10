@@ -27,7 +27,7 @@ Join our growing community of engineers, makers, and industrial innovators. Foll
 
 *   🌍 **Official Website:** [scadalgeria.com](https://www.scadalgeria.com)
 *   💼 **LinkedIn:** [linkedin.com/company/scadalgeria](https://linkedin.com/company/scadalgeria)
-*   📘 **Facebook:** [facebook.com/SCADAlgeria](https://www.facebook.com/scadalgeria/)
+*   📘 **Facebook:** [facebook.com/scadalgeria](https://www.facebook.com/scadalgeria/)
 *   🐙 **GitHub:** [github.com/scadalgeria](https://github.com/scadalgeria)
 *   𝕏 **X (Twitter):** [x.com/scadalgeria](https://x.com/scadalgeria)
 *   📸 **Instagram:** [instagram.com/scadalgeria](https://instagram.com/scadalgeria)
@@ -39,7 +39,7 @@ Join our growing community of engineers, makers, and industrial innovators. Foll
 *   🤖 **Reddit:** [r/scadalgeria](https://reddit.com/r/scadalgeria)
 *   ✈️ **Telegram:** [t.me/scadalgeria](https://t.me/scadalgeria)
 *   ✍️ **Medium:** [medium.com/@scadalgeria](https://medium.com/@scadalgeria)
-*   📌 **Pinterest:** [pinterest.com/SCADAlgeria](https://pinterest.com/scadalgeria/)
+*   📌 **Pinterest:** [pinterest.com/scadalgeria](https://pinterest.com/scadalgeria/)
 
 <br>
 
