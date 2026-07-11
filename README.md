@@ -46,5 +46,5 @@ Reach out: contact@scadalgeria.com
 <br>
 
 <div align="center">
-  <i>"Connect any device. Control everything."</i>
+  <i>"Connect your devices. Supervise everything."</i>
 </div>
