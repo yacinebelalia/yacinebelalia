@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Yacine Belalia</h1>
-  <h3>Founder &amp; CEO at <a href="https://www.scadalgeria.com">SCADAlgeria</a></h3>
+  <h3>Founder &amp; CEO of <a href="https://www.scadalgeria.com">SCADAlgeria</a></h3>
   <p>Bridging the gap between industrial control and cloud agility.</p>
 </div>
 
