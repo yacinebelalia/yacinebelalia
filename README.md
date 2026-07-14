@@ -50,7 +50,7 @@ Reach out: **contact@scadalgeria.com**
 <br>
 
 <div align="center">
-  <i>"Connect any device. Supervise everything."</i>
+  <i>"Connect your devices. Supervise everything."</i>
 </div>
 
 ---
