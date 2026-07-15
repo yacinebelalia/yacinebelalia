@@ -29,9 +29,9 @@ It connects physical assets to the cloud, where they can be monitored, controlle
 
 ## Connect with SCADAlgeria
 
-*   🌍 **Official Website:** [scadalgeria.com](https://www.scadalgeria.com)
+*   🌍 **Official Website:** [scadalgeria.com](https://scadalgeria.com)
 *   💼 **LinkedIn:** [linkedin.com/company/scadalgeria](https://linkedin.com/company/scadalgeria)
-*   📘 **Facebook:** [facebook.com/scadalgeria](https://www.facebook.com/scadalgeria/)
+*   📘 **Facebook:** [facebook.com/scadalgeria](https://facebook.com/scadalgeria/)
 *   🐙 **GitHub:** [github.com/scadalgeria](https://github.com/scadalgeria)
 *   𝕏 **X (Twitter):** [x.com/scadalgeria](https://x.com/scadalgeria)
 *   📸 **Instagram:** [instagram.com/scadalgeria](https://instagram.com/scadalgeria)
